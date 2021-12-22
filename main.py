@@ -2,10 +2,6 @@ import math
 import random as rnd
 
 from cmu_graphics import *
-#so, apparently, the site becomes really laggy at random intervals when running this code
-#it doesn't actually seem to have anything to do with exactly what I'm doing with the code,
-#because even when I revert what seems to have caused the lag, it remains laggy
-#and then later it runs smoothly
 
 ## TODO ##
 # make the ships able to shoot each other
